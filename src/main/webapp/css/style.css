@@ -1,0 +1,23 @@
+
+.custom-bg{
+    background:#2196f3!important;
+}
+.admin .card{
+    border: 1px solid #2196f3;
+}
+.admin .card:hover{
+    background-color:#e2e2e2;
+    cursor: pointer;
+
+}
+.discount-lable{
+    font-size: 10px;
+    font-style: italic;
+}
+
+.product-card{
+    background-color:#e2e2e2;
+    cursor: pointer;
+}.nav-link {
+
+}
